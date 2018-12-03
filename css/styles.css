@@ -34,13 +34,14 @@ form {
   box-shadow: 2px 2px 10px #111;
 }
 
-/*form h1 {
+form h1 {
   text-align: center;
   -webkit-text-decoration: underline double;
-          text-decoration: underline double;
+  text-decoration: underline double;
   margin-top: 0px;
 }
-form .signup__field label:after {
+
+/*form .signup__field label:after {
   content: ":";
   margin-left: 2px;
 }
