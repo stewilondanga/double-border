@@ -61,13 +61,14 @@ form .signup__field input:focus, form .signup__field select:focus {
   outline: none;
 }
 
-/*form fieldset {
+form fieldset {
   border: double 3px #333;
   margin-top: 20px;
   margin-left: 0px;
   margin-right: 0px;
 }
-form fieldset label:after {
+
+/*form fieldset label:after {
   display: none;
 }
 form fieldset .select-field {
