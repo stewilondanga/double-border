@@ -86,10 +86,11 @@ form fieldset .select-field select {
   font-weight: 700;
 }
 
-/*form fieldset .select-field select:focus {
+form fieldset .select-field select:focus {
   outline: none;
 }
-form fieldset .select-field select option {
+
+/*form fieldset .select-field select option {
   font-weight: 700;
 }
 form fieldset legend {
