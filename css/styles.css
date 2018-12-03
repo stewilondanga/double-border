@@ -94,10 +94,11 @@ form fieldset .select-field select option {
   font-weight: 700;
 }
 
-/*form fieldset legend {
+form fieldset legend {
   text-align: center;
 }
-form fieldset input[type="radio"] {
+
+/*form fieldset input[type="radio"] {
   -webkit-appearance: none;
   border: double 3px #333;
   width: 20px;
