@@ -90,10 +90,11 @@ form fieldset .select-field select:focus {
   outline: none;
 }
 
-/*form fieldset .select-field select option {
+form fieldset .select-field select option {
   font-weight: 700;
 }
-form fieldset legend {
+
+/*form fieldset legend {
   text-align: center;
 }
 form fieldset input[type="radio"] {
