@@ -46,7 +46,7 @@ form .signup__field label:after {
   margin-left: 2px;
 }
 
-/*form .signup__field input, form .signup__field select {
+form .signup__field input, form .signup__field select {
   border: none;
   border-bottom: double 3px #333;
   width: 100%;
@@ -55,9 +55,9 @@ form .signup__field label:after {
   height: 15px;
   font-size: 19px;
   /* To get rit of the blue outline in Chrome */
+}
 
-/*}
-form .signup__field input:focus, form .signup__field select:focus {
+/*form .signup__field input:focus, form .signup__field select:focus {
   outline: none;
 }
 form fieldset {
