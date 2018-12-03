@@ -14,11 +14,11 @@ html, body {
   height: 2.5em;
 }
 
-/*.my_social a img {
+.my_social a img {
   height: 1.5em;
 }
 
-form {
+/*form {
   background-color: #fff;
   color: #333;
   font-family: Montserrat, sans-serif;
