@@ -41,11 +41,12 @@ form h1 {
   margin-top: 0px;
 }
 
-/*form .signup__field label:after {
+form .signup__field label:after {
   content: ":";
   margin-left: 2px;
 }
-form .signup__field input, form .signup__field select {
+
+/*form .signup__field input, form .signup__field select {
   border: none;
   border-bottom: double 3px #333;
   width: 100%;
