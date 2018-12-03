@@ -98,7 +98,7 @@ form fieldset legend {
   text-align: center;
 }
 
-/*form fieldset input[type="radio"] {
+form fieldset input[type="radio"] {
   -webkit-appearance: none;
   border: double 3px #333;
   width: 20px;
@@ -109,7 +109,8 @@ form fieldset legend {
   box-sizing: border-box;
   transition: all 0.1s ease-in-out;
 }
-form fieldset input[type="radio"]:checked {
+
+/*form fieldset input[type="radio"]:checked {
   background-color: #333;
 }
 form fieldset input[type="radio"]:nth-child(2) {
