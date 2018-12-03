@@ -57,10 +57,11 @@ form .signup__field input, form .signup__field select {
   /* To get rit of the blue outline in Chrome */
 }
 
-/*form .signup__field input:focus, form .signup__field select:focus {
+form .signup__field input:focus, form .signup__field select:focus {
   outline: none;
 }
-form fieldset {
+
+/*form fieldset {
   border: double 3px #333;
   margin-top: 20px;
   margin-left: 0px;
