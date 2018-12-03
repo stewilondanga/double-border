@@ -138,7 +138,7 @@ form input[type="checkbox"]:checked {
   background-color: #333;
 }
 
-/*form .signup__button button {
+form .signup__button button {
   background-color: #fff;
   border: double 3px #333;
   padding: 6px 20px;
@@ -148,7 +148,8 @@ form input[type="checkbox"]:checked {
   margin-top: 30px;
   transition: all 0.1s ease-in-out;
 }
-form .signup__button button:focus {
+
+/*form .signup__button button:focus {
   outline: none;
   color: #fff;
   background-color: #333;
