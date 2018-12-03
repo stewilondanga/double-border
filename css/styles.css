@@ -122,7 +122,7 @@ form label[for="amazing"]:after {
   display: none;
 }
 
-/*form input[type="checkbox"] {
+form input[type="checkbox"] {
   -webkit-appearance: none;
   border: double 3px #333;
   width: 20px;
@@ -133,7 +133,8 @@ form label[for="amazing"]:after {
   box-sizing: border-box;
   transition: all 0.1s ease-in-out;
 }
-form input[type="checkbox"]:checked {
+
+/*form input[type="checkbox"]:checked {
   background-color: #333;
 }
 form .signup__button button {
