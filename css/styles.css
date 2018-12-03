@@ -68,10 +68,11 @@ form fieldset {
   margin-right: 0px;
 }
 
-/*form fieldset label:after {
+form fieldset label:after {
   display: none;
 }
-form fieldset .select-field {
+
+/*form fieldset .select-field {
   display: inline-block;
   width: 100%;
 }
