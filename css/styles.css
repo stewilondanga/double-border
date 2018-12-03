@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,400i,700");
 /*body {
   text-align: center;
   font-family: courier;
@@ -21,7 +22,6 @@
   height: 1.5em;
 }
 
-@import url("https://fonts.googleapis.com/css?family=Montserrat:400,400i,700");
 html, body {
   background-color: #333;
 }
@@ -60,6 +60,7 @@ form .signup__field input, form .signup__field select {
   height: 15px;
   font-size: 19px;
   /* To get rit of the blue outline in Chrome */
+
 /*}
 form .signup__field input:focus, form .signup__field select:focus {
   outline: none;
