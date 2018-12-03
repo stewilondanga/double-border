@@ -118,10 +118,11 @@ form fieldset input[type="radio"]:nth-child(2) {
   margin-left: 0px;
 }
 
-/*form label[for="amazing"]:after {
+form label[for="amazing"]:after {
   display: none;
 }
-form input[type="checkbox"] {
+
+/*form input[type="checkbox"] {
   -webkit-appearance: none;
   border: double 3px #333;
   width: 20px;
