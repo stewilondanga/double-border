@@ -72,11 +72,12 @@ form fieldset label:after {
   display: none;
 }
 
-/*form fieldset .select-field {
+form fieldset .select-field {
   display: inline-block;
   width: 100%;
 }
-form fieldset .select-field select {
+
+/*form fieldset .select-field select {
   border: none;
   border-bottom: double 3px #333;
   width: 100%;
